@@ -11,7 +11,7 @@
 
 ## Contacto
 
-¡Me encantaría conectarte contigo! Puedes encontrarme en:
+¡Me encantaría conectarme contigo! Puedes encontrarme en:
 
 - [LinkedIn](https://www.linkedin.com/in/alejo-holmann-a51262221/) 🌐
 - [Email](mailto:alejoholmann99@gmail.com) 📧
@@ -32,9 +32,9 @@ Si tienes alguna pregunta, sugerencia o simplemente quieres decir hola, no dudes
 
 ¡Gracias por visitar mi GitHub! 👋
 
-![Logo de tu proyecto](https://via.placeholder.com/200x200/000000/FFFFFF?text=Logo)
 
 <!--
+![Logo de tu proyecto](https://via.placeholder.com/200x200/000000/FFFFFF?text=Logo)
 **AIHolmann/AIHolmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
