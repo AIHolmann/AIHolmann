@@ -4,8 +4,10 @@
 
 ## Tecnologías utilizadas
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,git,nodejs,express,sequelize,postgres,)](https://skillicons.dev)
+<!-- 
 ![HTML](https://via.placeholder.com/50x50/FF5733/000000?text=HTML) ![CSS](https://via.placeholder.com/50x50/F8961E/000000?text=CSS) ![JavaScript](https://via.placeholder.com/50x50/7CB342/000000?text=JavaScript) ![React](https://via.placeholder.com/50x50/03A9F4/000000?text=React) ![Redux](https://via.placeholder.com/50x50/9C27B0/000000?text=Redux) ![Git](https://via.placeholder.com/50x50/795548/000000?text=Git) ![Node.js](https://via.placeholder.com/50x50/689F38/000000?text=Node.js) ![Express.js](https://via.placeholder.com/50x50/009688/000000?text=Express.js) ![Sequelize](https://via.placeholder.com/50x50/8E24AA/000000?text=Sequelize) ![PostgreSQL](https://via.placeholder.com/50x50/607D8B/000000?text=PostgreSQL)
+-->
 
 ## Contacto
 
