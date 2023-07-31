@@ -4,7 +4,7 @@
 
 ## Tecnologías utilizadas
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,git,nodejs,express,sequelize,postgres,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,git,nodejs,express,sequelize,postgres,mongodb,tailwind,ts,)](https://skillicons.dev)
 <!-- 
 ![HTML](https://via.placeholder.com/50x50/FF5733/000000?text=HTML) ![CSS](https://via.placeholder.com/50x50/F8961E/000000?text=CSS) ![JavaScript](https://via.placeholder.com/50x50/7CB342/000000?text=JavaScript) ![React](https://via.placeholder.com/50x50/03A9F4/000000?text=React) ![Redux](https://via.placeholder.com/50x50/9C27B0/000000?text=Redux) ![Git](https://via.placeholder.com/50x50/795548/000000?text=Git) ![Node.js](https://via.placeholder.com/50x50/689F38/000000?text=Node.js) ![Express.js](https://via.placeholder.com/50x50/009688/000000?text=Express.js) ![Sequelize](https://via.placeholder.com/50x50/8E24AA/000000?text=Sequelize) ![PostgreSQL](https://via.placeholder.com/50x50/607D8B/000000?text=PostgreSQL)
 -->
@@ -20,7 +20,7 @@
 
 Aquí puedes encontrar una breve descripción de algunos de mis proyectos destacados:
 
-1. **La Pilcha - PF** - Este proyecto es un ejemplo de una aplicación web creada en Next.js con React, Redux y Typescript en su front-end. Y Express.js, Javascript y MongoDB en su back-end. Utiliza una arquitectura modular y cuenta con características impresionantes tales como implementación de pasarela de pago, autenticación de terceros, gestión de emails a un servidor SMTP, informacion privada del usuario y un amplio admin-dashboard entre otras caracteríasticas.
+1. **La Pilcha - PF** - Este proyecto es un ejemplo de una aplicación web creada en Next.js con React, Redux y Typescript en su front-end. Y Express.js, Javascript y MongoDB en su back-end. Utiliza una arquitectura modular y cuenta con características impresionantes tales como implementación de pasarela de pago, autenticación de terceros, gestión de emails a un servidor SMTP, informacion privada del usuario y un amplio admin-dashboard entre otras caracteríasticas. Deploy aqui: [LaPilcha](https://pf-la-pilcha.vercel.app/)
 
 2. **PI_VideoGames** - Una aplicación web completa creada con Node.js, Express.js y PostgreSQL. Utiliza el ORM Sequelize para una gestión eficiente de la base de datos y ofrece una interfaz intuitiva para los usuarios.
 
