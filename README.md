@@ -20,11 +20,9 @@
 
 Aquí puedes encontrar una breve descripción de algunos de mis proyectos destacados:
 
-1. **Proyecto 1** - Este proyecto es un ejemplo de una aplicación web creada con React y Redux. Utiliza una arquitectura modular y cuenta con características impresionantes.
+1. **La Pilcha - PF** - Este proyecto es un ejemplo de una aplicación web creada en Next.js con React, Redux y Typescript en su front-end. Y Express.js, Javascript y MongoDB en su back-end. Utiliza una arquitectura modular y cuenta con características impresionantes tales como implementación de pasarela de pago, autenticación de terceros, gestión de emails a un servidor SMTP, informacion privada del usuario y un amplio admin-dashboard entre otras caracteríasticas.
 
-2. **Proyecto 2** - Una aplicación móvil desarrollada con React Native y Redux. Proporciona una experiencia fluida y atractiva para los usuarios y presenta una integración perfecta con servicios externos.
-
-3. **Proyecto 3** - Una aplicación web completa creada con Node.js, Express.js y PostgreSQL. Utiliza el ORM Sequelize para una gestión eficiente de la base de datos y ofrece una interfaz intuitiva para los usuarios.
+2. **PI_VideoGames** - Una aplicación web completa creada con Node.js, Express.js y PostgreSQL. Utiliza el ORM Sequelize para una gestión eficiente de la base de datos y ofrece una interfaz intuitiva para los usuarios.
 
 Estos son solo algunos ejemplos, ¡asegúrate de explorar mi repositorio para descubrir más proyectos interesantes!
 
