@@ -13,6 +13,7 @@ Hello! I'm Alejo Holmann, a passionate software developer with experience in var
 
 I'd love to connect with you! You can find me on:
 
+- [Portfolio](https://alejoholmann-developer.vercel.app/) 👨‍💻
 - [LinkedIn](https://www.linkedin.com/in/alejo-holmann-a51262221/) 🌐
 - [Email](mailto:alejoholmann99@gmail.com) 📧
 
@@ -20,7 +21,15 @@ I'd love to connect with you! You can find me on:
 
 Here, you can find brief descriptions of some of my featured projects:
 
-1. **La Pilcha - PF** - This project is a web application created in Next.js with React, Redux, and TypeScript on its front-end. Its back-end utilizes Express.js, JavaScript, and MongoDB. It follows a modular architecture and boasts impressive features such as payment gateway integration, third-party authentication, email management to an SMTP server, user private information handling, and a comprehensive admin dashboard, among others. Deployment here: [LaPilcha](https://pf-la-pilcha.vercel.app/)
+2. **NextCRUD** -  Task management application. It allows you to create, display, update and delete them. It uses the "Prisma" ORM and has a REST API integrated into the same project (an option that Next.js gives us for small projects). [NextCRUD](https://nextjs-prisma-crud-nbds3ylg8-alejo-s-projects.vercel.app/)
+
+2. **PerdonApp** -  "PerdonApp", a friendly application to apologize to your favorite person in a very special and unique way. Try it now!. [PerdonApp](https://perdonapp.vercel.app/)
+
+2. **Jalil-Barber** -  Professional page, designed and developed by me for a barber shop. Deploy here: [Jalil-Barber](https://jalil-barber.vercel.app/)
+
+2. **Portfolio** -  Personal Portfolio, designed and developed by me. It features a night mode and simple functionalities. Statistics dashboard in development. Deploy here: [AlejoHolmannDeveloper](https://alejoholmann-developer.vercel.app/)
+
+1. **La Pilcha - PF** - This project is a web application created in Next.js with React, Redux, and TypeScript on its front-end. Its back-end utilizes Express.js, JavaScript, and MongoDB. It follows a modular architecture and boasts impressive features such as payment gateway integration, third-party authentication, email management to an SMTP server, user private information handling, and a comprehensive admin dashboard, among others. Deploy here: [LaPilcha](https://pf-la-pilcha.vercel.app/)
 
 2. **PI_VideoGames** -  complete web application built with Node.js, Express.js, and PostgreSQL. It employs the Sequelize ORM for efficient database management and provides an intuitive interface for users.
 
