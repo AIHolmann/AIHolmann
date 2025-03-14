@@ -21,6 +21,13 @@ I'd love to connect with you! You can find me on:
 
 Here, you can find brief descriptions of some of my featured projects:
 
+
+1. **DieLavendel** -  Professional page. Official site of "DieLavendel", designed and developed by me. [NextCRUD](http://dielavendel.com/)
+
+2. **Cabañas & Suites Vista Hermosa** -  Professional page. Official site of "Cabañas & Suites Vista Hermosa", designed and developed by me. [Vista Hermosa](https://www.xn--cabaasvistahermosa-q0b.com/)
+
+2. **Desing-darkui-1** -  Technical test project, for a frontend web developer position. [DarkUI-1](https://desing-darkui-1.vercel.app/)
+
 2. **NextCRUD** -  Task management application. It allows you to create, display, update and delete them. It uses the "Prisma" ORM and has a REST API integrated into the same project (an option that Next.js gives us for small projects). [NextCRUD](https://nextjs-prisma-crud-nbds3ylg8-alejo-s-projects.vercel.app/)
 
 2. **PerdonApp** -  "PerdonApp", a friendly application to apologize to your favorite person in a very special and unique way. Try it now!. [PerdonApp](https://perdonapp.vercel.app/)
