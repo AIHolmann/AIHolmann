@@ -22,7 +22,7 @@ I'd love to connect with you! You can find me on:
 Here, you can find brief descriptions of some of my featured projects:
 
 
-1. **DieLavendel** -  Professional page. Official site of "DieLavendel", designed and developed by me. [NextCRUD](http://dielavendel.com/)
+1. **DieLavendel** -  Professional page. Official site of "DieLavendel", designed and developed by me. [DieLavendel](http://dielavendel.com/)
 
 2. **Cabañas & Suites Vista Hermosa** -  Professional page. Official site of "Cabañas & Suites Vista Hermosa", designed and developed by me. [Vista Hermosa](https://www.xn--cabaasvistahermosa-q0b.com/)
 
